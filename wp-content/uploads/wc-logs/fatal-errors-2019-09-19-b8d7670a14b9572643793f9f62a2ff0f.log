@@ -1,0 +1,28 @@
+2019-09-19T15:09:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:11:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:11:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:13:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/module/field/TextShadow.php on line 94
+
+2019-09-19T15:14:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/module/field/TextShadow.php on line 94
+
+2019-09-19T15:15:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/module/field/TextShadow.php on line 94
+
+2019-09-19T15:16:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/module/field/TextShadow.php on line 94
+
+2019-09-19T15:17:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:19:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:21:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:23:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/websites/wp_slider/wp-content/plugins/wc-builder-divi-premium/includes/modules/ProductRelatedProducts/ProductRelatedProducts.php on line 486
+
+2019-09-19T15:25:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:32:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 2981
+
+2019-09-19T15:32:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-includes/class-wp-hook.php on line 279
+

@@ -1,0 +1,4 @@
+2019-09-11T16:34:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/websites/wp_slider/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 3022
+
+2019-09-11T16:41:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/websites/wp_slider/wp-content/plugins/wc-builder-divi-premium/includes/modules/ProductExcerpt/ProductExcerpt.php on line 57
+

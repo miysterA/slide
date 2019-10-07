@@ -1,0 +1,130 @@
+/*
+ Theme Name:   slider
+ Theme URI:    http://pbs.site/fr/
+ Description:  Slider Divi child-theme
+ Author:       Miyster Andhiy
+ Author URI:   http://pbs.site/fr
+ Template:     Divi
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  slider
+ */
+@import url('css/font-awesome-4.7.0/css/font-awesome.min.css');
+/*
+ * Home page
+ */
+.nav li ul{
+	border: none !important;
+}
+
+body #page-container .et_pb_section .et_pb_wcbd_products_search_0 .button:hover {
+	padding: 0.5rem 1.75rem 0.5rem 0.7rem !important;
+}
+/*
+ * Product page
+ */
+
+.et_pb_section{
+	padding: 0px !important;
+}
+ span.posted_in, span.tagged_as{
+    padding: 15px 5px;
+    margin: 15px 5px;
+ }
+
+ span.posted_in a, span.tagged_as a{
+    border: 1px solid #232323;
+    color: #232323;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-weight: 300 !important;
+    line-height: 4rem;
+ } 
+
+span.posted_in a:hover, span.tagged_as a:hover{
+    border: 1px solid #1c7cc0;
+    color: #1c7cc0;
+    text-decoration: underline;
+ }
+
+
+/*
+ *About us page
+ */
+
+/*
+
+.et_pb_row .et-last-child{
+    position: relative;
+    display: block;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.et_pb_blurb_container h4{
+    color: #fff !important;
+    text-align: center !important;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+
+*/
+.about{
+	position: relative;
+    display: block;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.cover-bg {
+	position: absolute;
+    display: block;
+    height: 300px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cover-header.blue{
+	background-color: #1c7cc0;
+	color: #fff;
+	border: none;
+	opacity: .9;
+	width: 40%;
+	margin-right: 40px;
+	margin-top: 40px;
+	z-index: 10;
+	position: absolute;
+	float: right;
+	right: 40px;
+	padding: 15px 20px;
+}
+.et_pb_blurb_description .yellow-link{
+    text-align: center;
+    height: 120px;
+    position: relative;
+    top: 30px;
+}
+.et_pb_blurb_description .yellow-link a.box-subscribe-button,
+.plan-button{
+    color: #fff !important;
+    background-color: #f7941d;
+    border-color: #f7941d;
+    padding: 16px 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    line-height: 3em;
+}
+
+.et_pb_blurb_description .yellow-link img{
+    width: 100px;
+}
+
+span.posted_in a,
+span.tagged_as a{
+    display: inline-block;
+    line-height: 1rem;
+    margin: .25rem;
+}

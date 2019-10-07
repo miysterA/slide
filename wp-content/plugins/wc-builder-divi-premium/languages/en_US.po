@@ -1,0 +1,1765 @@
+# Copyright (C) 2019 Abdelfatah Aboelghit | DiviKingdom.Com
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Builder For Divi 2.1.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-builder-divi\n"
+"POT-Creation-Date: 2019-07-19 16:29:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/admin/pages/settings.php:2
+msgid "Products"
+msgstr ""
+
+#: includes/admin/pages/settings.php:3
+msgid "Shop & Archive"
+msgstr ""
+
+#: includes/admin/pages/settings.php:17
+msgid "Product Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:26
+msgid "General Default Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:30
+#: includes/functions/main-functions.php:168
+#: includes/functions/main-functions.php:224
+msgid "-- Default WooCommerce Layout --"
+msgstr ""
+
+#: includes/admin/pages/settings.php:41
+msgid ""
+"This layout can be overridden for individual products in product editing "
+"page"
+msgstr ""
+
+#: includes/admin/pages/settings.php:48
+msgid "Based On The Product Category"
+msgstr ""
+
+#: includes/admin/pages/settings.php:50
+msgid "The Default layout for products under these categories."
+msgstr ""
+
+#: includes/admin/pages/settings.php:64 includes/admin/pages/settings.php:162
+msgid "Display"
+msgstr ""
+
+#: includes/admin/pages/settings.php:71 includes/admin/pages/settings.php:169
+msgid "Make Fullwidth Rows 100% width"
+msgstr ""
+
+#: includes/admin/pages/settings.php:76 includes/admin/pages/settings.php:174
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/pages/settings.php:79
+msgid ""
+"By default, when you make a row full-width in Divi Builder, it'll be 80% "
+"width only. This option affects product pages only."
+msgstr ""
+
+#: includes/admin/pages/settings.php:91
+msgid "Shop & Archive Layouts"
+msgstr ""
+
+#: includes/admin/pages/settings.php:100
+msgid "Default Categories Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:108
+msgid ""
+"You can override this by building layouts for specific categories in the "
+"archive builder."
+msgstr ""
+
+#: includes/admin/pages/settings.php:117
+msgid "Default Tags Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:124
+msgid ""
+"You can override this by building layouts for specific tags in the archive "
+"builder."
+msgstr ""
+
+#: includes/admin/pages/settings.php:133
+msgid "Shop Page Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:146
+msgid "Search Page Layout"
+msgstr ""
+
+#: includes/admin/pages/settings.php:153
+msgid "This layout works only on Products search page, not WordPress search page."
+msgstr ""
+
+#: includes/admin/pages/settings.php:177
+msgid ""
+"By default, when you make a row full-width in Divi Builder, it'll be 80% "
+"width only. This option affects product archive pages only."
+msgstr ""
+
+#: includes/classes/init.class.php:232 includes/classes/init.class.php:320
+#: includes/classes/init.class.php:372
+msgid "Edit This Layout"
+msgstr ""
+
+#: includes/classes/init.class.php:412
+msgid "Exit Visual Builder"
+msgstr ""
+
+#: includes/classes/init.class.php:806
+msgid "This module works only on product pages."
+msgstr ""
+
+#: includes/classes/init.class.php:815
+msgid "Product Title!"
+msgstr ""
+
+#: includes/classes/init.class.php:817
+#: includes/modules/AddToCart/AddToCart.php:31
+#: includes/modules/AddToCart/AddToCart.php:47
+#: includes/modules/AddToCart/AddToCart.php:170
+#: includes/modules/ProductSummary/ProductSummary.php:29
+#: includes/modules/ProductSummary/ProductSummary.php:99
+#: includes/modules/ProductSummary/ProductSummary.php:245
+msgid "Quantity"
+msgstr ""
+
+#: includes/classes/init.class.php:818
+msgid "Color"
+msgstr ""
+
+#: includes/classes/init.class.php:819
+msgid "Size"
+msgstr ""
+
+#: includes/classes/init.class.php:820
+msgid "Variation"
+msgstr ""
+
+#: includes/classes/init.class.php:821
+msgid "Choose an option"
+msgstr ""
+
+#: includes/classes/init.class.php:822
+msgid ""
+"Here will be the selected variation description if you set it in the "
+"product editing page. Next is the variation price and the stock "
+"availability status."
+msgstr ""
+
+#: includes/classes/init.class.php:823
+msgid "In stock"
+msgstr ""
+
+#: includes/classes/init.class.php:824
+#: includes/modules/AddToCart/AddToCart.php:184
+#: includes/modules/ProductSummary/ProductSummary.php:273
+msgid "Add to cart"
+msgstr ""
+
+#: includes/classes/init.class.php:825
+msgid "View cart"
+msgstr ""
+
+#: includes/classes/init.class.php:826
+msgid "The product has been added to your cart."
+msgstr ""
+
+#: includes/classes/init.class.php:828
+msgid "Category Name"
+msgstr ""
+
+#: includes/classes/init.class.php:828
+msgid "Another Category"
+msgstr ""
+
+#: includes/classes/init.class.php:829
+#: includes/modules/ArchiveDesc/ArchiveDesc.php:21
+#: includes/modules/CategoryCover/CategoryCover.php:44
+#: includes/modules/ProductDescription/ProductDescription.php:43
+#: includes/modules/ProductDescription/ProductDescription.php:331
+msgid "Description"
+msgstr ""
+
+#: includes/classes/init.class.php:830
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:110
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:141
+msgid "Additional information"
+msgstr ""
+
+#: includes/classes/init.class.php:831
+msgid "Reviews"
+msgstr ""
+
+#: includes/classes/init.class.php:832
+msgid "SKU"
+msgstr ""
+
+#: includes/classes/init.class.php:833 includes/classes/settings.class.php:142
+#: includes/modules/ProductCover/ProductCover.php:69
+#: includes/modules/ProductCover/ProductCover.php:99
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/init.class.php:834 includes/classes/settings.class.php:143
+msgid "Tags"
+msgstr ""
+
+#: includes/classes/init.class.php:835
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/init.class.php:836
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/init.class.php:837
+msgid "Add a review"
+msgstr ""
+
+#: includes/classes/init.class.php:838
+msgid "Your rating"
+msgstr ""
+
+#: includes/classes/init.class.php:869
+#. translators: %s: URL to read more about the shop page.
+msgid ""
+"IMPORTANT: If you want to customize the shop page using the WooCommerce "
+"Builder, you MUST keep the content area below EMPTY! <a href=\"%s\" "
+"target=\"_blank\">Read more about this here</a>."
+msgstr ""
+
+#: includes/classes/metabox.class.php:29
+msgid "-- Category Default Layout --"
+msgstr ""
+
+#: includes/classes/metabox.class.php:33
+#: includes/functions/main-functions.php:191
+msgid "-- General Default Layout --"
+msgstr ""
+
+#: includes/classes/metabox.class.php:37
+msgid "-- WooCommerce Default Layout --"
+msgstr ""
+
+#: includes/classes/settings.class.php:96
+msgid "Archive Layouts"
+msgstr ""
+
+#: includes/classes/settings.class.php:97
+msgid "Archive Layout"
+msgstr ""
+
+#: includes/classes/settings.class.php:98
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/settings.class.php:99
+msgid "Add New Archive Layout"
+msgstr ""
+
+#: includes/classes/settings.class.php:100
+msgid "Edit Archive Layout"
+msgstr ""
+
+#: includes/classes/settings.class.php:101
+msgid "New Archive Layout"
+msgstr ""
+
+#: includes/classes/settings.class.php:102
+msgid "All Archive Layouts"
+msgstr ""
+
+#: includes/classes/settings.class.php:103
+msgid "View Archive Layout"
+msgstr ""
+
+#: includes/classes/settings.class.php:104
+msgid "Search Layouts"
+msgstr ""
+
+#: includes/classes/settings.class.php:105
+msgid "Nothing found"
+msgstr ""
+
+#: includes/classes/settings.class.php:106
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/functions/main-functions.php:229
+msgid "- Archive Builder Layouts -"
+msgstr ""
+
+#: includes/functions/main-functions.php:241
+msgid "- Divi Library Layouts -"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:23
+msgid "Woo Add To Cart Button"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:30
+#: includes/modules/ProductSummary/ProductSummary.php:28
+msgid "Add to Cart Button"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:32
+#: includes/modules/ProductSummary/ProductSummary.php:30
+msgid "Variations"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:62
+#: includes/modules/ProductSummary/ProductSummary.php:114
+#: includes/modules/ProductSummary/ProductSummary.php:249
+msgid "Variation Description"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:77
+#: includes/modules/ProductSummary/ProductSummary.php:129
+msgid "Variation Price"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:92
+#: includes/modules/ProductSummary/ProductSummary.php:144
+msgid "Variations Labels"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:107
+#: includes/modules/ProductSummary/ProductSummary.php:159
+msgid "In Stock"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:122
+#: includes/modules/ProductSummary/ProductSummary.php:174
+msgid "Out Of Stock"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:150
+#: includes/modules/AddToCart/AddToCart.php:165
+#: includes/modules/ProductSummary/ProductSummary.php:214
+msgid "Button"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:182
+#: includes/modules/ProductSummary/ProductSummary.php:271
+#: includes/modules/ProductsSearch/ProductsSearch.php:129
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:186
+#: includes/modules/ProductSummary/ProductSummary.php:275
+msgid "Input your desired button text. Default is: Add to cart"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:190
+#: includes/modules/ProductSummary/ProductSummary.php:279
+msgid "Show Quantity Input"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:194
+#: includes/modules/AddToCart/AddToCart.php:205
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:198
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:210
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:222
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:236
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:248
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:261
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:273
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:316
+#: includes/modules/CategoryCover/CategoryCover.php:76
+#: includes/modules/CategoryCover/CategoryCover.php:87
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:98
+#: includes/modules/ProductCover/ProductCover.php:119
+#: includes/modules/ProductCover/ProductCover.php:128
+#: includes/modules/ProductCover/ProductCover.php:138
+#: includes/modules/ProductDescription/ProductDescription.php:320
+#: includes/modules/ProductGallery/ProductGallery.php:156
+#: includes/modules/ProductGallery/ProductGallery.php:238
+#: includes/modules/ProductGallery/ProductGallery.php:250
+#: includes/modules/ProductImage/ProductImage.php:92
+#: includes/modules/ProductImage/ProductImage.php:154
+#: includes/modules/ProductImage/ProductImage.php:179
+#: includes/modules/ProductImage/ProductImage.php:193
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:65
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:76
+#: includes/modules/ProductMeta/ProductMeta.php:75
+#: includes/modules/ProductMeta/ProductMeta.php:85
+#: includes/modules/ProductMeta/ProductMeta.php:95
+#: includes/modules/ProductMeta/ProductMeta.php:107
+#: includes/modules/ProductNavigation/ProductNavigation.php:206
+#: includes/modules/ProductPrice/ProductPrice.php:70
+#: includes/modules/ProductRating/ProductRating.php:69
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:150
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:189
+#: includes/modules/ProductReviews/ProductReviews.php:93
+#: includes/modules/ProductSummary/ProductSummary.php:283
+#: includes/modules/ProductSummary/ProductSummary.php:294
+#: includes/modules/ProductTabs/ProductTabs.php:440
+#: includes/modules/ProductTabs/ProductTabs.php:451
+#: includes/modules/ProductTabs/ProductTabs.php:462
+#: includes/modules/ProductTabs/ProductTabs.php:475
+#: includes/modules/ProductTabs/ProductTabs.php:487
+#: includes/modules/ProductUpsells/ProductUpsells.php:149
+#: includes/modules/ProductUpsells/ProductUpsells.php:188
+#: includes/modules/ProductsSearch/ProductsSearch.php:118
+#: includes/modules/ProductsSearch/ProductsSearch.php:150
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:195
+#: includes/modules/AddToCart/AddToCart.php:204
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:199
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:211
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:223
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:237
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:247
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:260
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:274
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:317
+#: includes/modules/CategoryCover/CategoryCover.php:77
+#: includes/modules/CategoryCover/CategoryCover.php:88
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:99
+#: includes/modules/ProductCover/ProductCover.php:118
+#: includes/modules/ProductCover/ProductCover.php:129
+#: includes/modules/ProductCover/ProductCover.php:139
+#: includes/modules/ProductDescription/ProductDescription.php:321
+#: includes/modules/ProductGallery/ProductGallery.php:155
+#: includes/modules/ProductGallery/ProductGallery.php:239
+#: includes/modules/ProductGallery/ProductGallery.php:251
+#: includes/modules/ProductImage/ProductImage.php:91
+#: includes/modules/ProductImage/ProductImage.php:155
+#: includes/modules/ProductImage/ProductImage.php:178
+#: includes/modules/ProductImage/ProductImage.php:194
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:64
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:75
+#: includes/modules/ProductMeta/ProductMeta.php:76
+#: includes/modules/ProductMeta/ProductMeta.php:86
+#: includes/modules/ProductMeta/ProductMeta.php:96
+#: includes/modules/ProductMeta/ProductMeta.php:106
+#: includes/modules/ProductNavigation/ProductNavigation.php:205
+#: includes/modules/ProductPrice/ProductPrice.php:69
+#: includes/modules/ProductRating/ProductRating.php:68
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:151
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:188
+#: includes/modules/ProductReviews/ProductReviews.php:94
+#: includes/modules/ProductSummary/ProductSummary.php:284
+#: includes/modules/ProductSummary/ProductSummary.php:293
+#: includes/modules/ProductTabs/ProductTabs.php:441
+#: includes/modules/ProductTabs/ProductTabs.php:452
+#: includes/modules/ProductTabs/ProductTabs.php:463
+#: includes/modules/ProductTabs/ProductTabs.php:474
+#: includes/modules/ProductTabs/ProductTabs.php:486
+#: includes/modules/ProductUpsells/ProductUpsells.php:150
+#: includes/modules/ProductUpsells/ProductUpsells.php:187
+#: includes/modules/ProductsSearch/ProductsSearch.php:119
+#: includes/modules/ProductsSearch/ProductsSearch.php:149
+msgid "No"
+msgstr ""
+
+#: includes/modules/AddToCart/AddToCart.php:200
+#: includes/modules/ProductSummary/ProductSummary.php:289
+msgid "Hide Variation Price"
+msgstr ""
+
+#: includes/modules/ArchiveDesc/ArchiveDesc.php:12
+msgid "Woo Archive Description"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:15
+msgid "Woo Archive Products"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:24
+#: includes/modules/PageTitle/PageTitle.php:23
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:30
+msgid "General"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:25
+msgid "Components"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:30
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:126
+#: includes/modules/ProductGallery/ProductGallery.php:39
+#: includes/modules/ProductGallery/ProductGallery.php:121
+#: includes/modules/ProductImage/ProductImage.php:25
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:31
+#: includes/modules/ProductRating/ProductRating.php:20
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:121
+#: includes/modules/ProductReviews/ProductReviews.php:30
+#: includes/modules/ProductSummary/ProductSummary.php:35
+#: includes/modules/ProductUpsells/ProductUpsells.php:120
+#: includes/modules/ProductsSearch/ProductsSearch.php:31
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:32
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:33
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:114
+msgid "Product"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:41
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:130
+#: includes/modules/CategoryCover/CategoryCover.php:32
+#: includes/modules/PageTitle/PageTitle.php:31
+#: includes/modules/PageTitle/PageTitle.php:39
+#: includes/modules/ProductCover/ProductCover.php:57
+#: includes/modules/ProductGallery/ProductGallery.php:73
+#: includes/modules/ProductSummary/ProductSummary.php:50
+#: includes/modules/ProductSummary/ProductSummary.php:229
+#: includes/modules/ProductTitle/ProductTitle.php:35
+msgid "Title"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:54
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:138
+#: includes/modules/ProductPrice/ProductPrice.php:35
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:71
+#: includes/modules/ProductSummary/ProductSummary.php:74
+#: includes/modules/ProductSummary/ProductSummary.php:233
+#: includes/modules/ProductUpsells/ProductUpsells.php:70
+msgid "Price"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:71
+#: includes/modules/ProductExcerpt/ProductExcerpt.php:20
+#: includes/modules/ProductSummary/ProductSummary.php:87
+#: includes/modules/ProductSummary/ProductSummary.php:241
+msgid "Excerpt"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:86
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:150
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:96
+#: includes/modules/ProductSummary/ProductSummary.php:261
+#: includes/modules/ProductUpsells/ProductUpsells.php:95
+msgid "Add To Cart Button"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:101
+msgid "Product Box Shadow"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:118
+msgid "Onsale"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:122
+#: includes/modules/ProductGallery/ProductGallery.php:101
+#: includes/modules/ProductImage/ProductImage.php:19
+msgid "Image"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:134
+#: includes/modules/ProductRating/ProductRating.php:35
+#: includes/modules/ProductSummary/ProductSummary.php:62
+#: includes/modules/ProductSummary/ProductSummary.php:237
+msgid "Rating"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:142
+msgid "Old Price"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:146
+msgid "Product Excerpt"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:159
+msgid "Display Type"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:163
+#: includes/modules/ProductGallery/ProductGallery.php:177
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:164
+msgid "Classic Blog"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:173
+msgid "Columns Number"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:177
+msgid "-- Default --"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:178
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:179
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:180
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:181
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:182
+msgid "%1$s Columns"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:183
+msgid "1 Column"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:190
+msgid "Choose how many columns to display. Default is 3."
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:194
+msgid "Show OrderBy Menu"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:202
+msgid "Show/Hide the sorting dropdown menu in the frontend."
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:206
+msgid "Show Results Count"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:214
+msgid "Show/Hide products count."
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:218
+msgid "Show Rating"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:232
+msgid "Show Price"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:243
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:256
+msgid "Show Add To Cart Button"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:269
+msgid "Enable Pagination"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:280
+msgid "Current Item Background"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:290
+msgid "Current Item Color"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:300
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:250
+#: includes/modules/ProductUpsells/ProductUpsells.php:249
+msgid "Sale Badge Color"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:307
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:244
+#: includes/modules/ProductUpsells/ProductUpsells.php:243
+msgid "Rating Stars Color"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:313
+msgid "Use Overlay"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:329
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:337
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:345
+msgid "Icon Picker"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:355
+msgid "Product Background"
+msgstr ""
+
+#: includes/modules/ArchiveProducts/ArchiveProducts.php:362
+msgid "Product Padding"
+msgstr ""
+
+#: includes/modules/Breadcrumb/Breadcrumb.php:15
+msgid "Woo Breadcrumb"
+msgstr ""
+
+#: includes/modules/Breadcrumb/Breadcrumb.php:22
+#: includes/modules/ProductCover/ProductCover.php:45
+#: includes/modules/ProductCover/ProductCover.php:95
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/modules/CategoryCover/CategoryCover.php:12
+msgid "Woo Category Cover"
+msgstr ""
+
+#: includes/modules/CategoryCover/CategoryCover.php:21
+#: includes/modules/ProductRating/ProductRating.php:25
+#: includes/modules/ProductsSearch/ProductsSearch.php:26
+msgid "Main Content"
+msgstr ""
+
+#: includes/modules/CategoryCover/CategoryCover.php:73
+#: includes/modules/ProductCover/ProductCover.php:124
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/CategoryCover/CategoryCover.php:84
+#: includes/modules/ProductTabs/ProductTabs.php:436
+msgid "Show Description"
+msgstr ""
+
+#: includes/modules/Notices/Notices.php:15
+msgid "Woo Notices"
+msgstr ""
+
+#: includes/modules/Notices/Notices.php:22
+msgid "Notice"
+msgstr ""
+
+#: includes/modules/Notices/Notices.php:59
+msgid "Notice Button"
+msgstr ""
+
+#: includes/modules/PageTitle/PageTitle.php:13
+msgid "Woo Page Title"
+msgstr ""
+
+#: includes/modules/PageTitle/PageTitle.php:68
+msgid "Heading Level"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:15
+msgid "Woo Product Additional Info."
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:22
+#: includes/modules/ProductDescription/ProductDescription.php:41
+#: includes/modules/ProductDescription/ProductDescription.php:117
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:114
+#: includes/modules/ProductReviews/ProductReviews.php:25
+#: includes/modules/ProductUpsells/ProductUpsells.php:113
+msgid "Module Heading"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:35
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:85
+#: includes/modules/ProductDescription/ProductDescription.php:209
+#: includes/modules/ProductDescription/ProductDescription.php:307
+#: includes/modules/ProductReviews/ProductReviews.php:40
+#: includes/modules/ProductReviews/ProductReviews.php:80
+#: includes/modules/ProductTabs/ProductTabs.php:277
+msgid "Heading"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:47
+#: includes/modules/ProductTabs/ProductTabs.php:361
+msgid "Attribute Name"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:59
+#: includes/modules/ProductTabs/ProductTabs.php:373
+msgid "Attribute Values"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:94
+#: includes/modules/ProductDescription/ProductDescription.php:316
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:146
+#: includes/modules/ProductReviews/ProductReviews.php:89
+#: includes/modules/ProductUpsells/ProductUpsells.php:145
+msgid "Show Heading"
+msgstr ""
+
+#: includes/modules/ProductAdditionalInfo/ProductAdditionalInfo.php:108
+#: includes/modules/ProductDescription/ProductDescription.php:329
+msgid "Custom Heading"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:15
+msgid "Woo Product Cover"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:29
+msgid "Main Options"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:35
+#: includes/modules/ProductDescription/ProductDescription.php:131
+#: includes/modules/ProductGallery/ProductGallery.php:41
+#: includes/modules/ProductMeta/ProductMeta.php:32
+#: includes/modules/ProductPrice/ProductPrice.php:25
+#: includes/modules/ProductTabs/ProductTabs.php:200
+#: includes/modules/ProductTitle/ProductTitle.php:25
+msgid "Text"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:91
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:58
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:133
+#: includes/modules/ProductUpsells/ProductUpsells.php:57
+#: includes/modules/ProductUpsells/ProductUpsells.php:132
+msgid "Product Title"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:108
+msgid "Default Background Image"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:109
+msgid "This image will be used if no cover image has been chose for the product"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:114
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:134
+#: includes/modules/ProductMeta/ProductMeta.php:71
+msgid "Show Categories"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:147
+msgid "Categories Separator"
+msgstr ""
+
+#: includes/modules/ProductCover/ProductCover.php:148
+msgid "Default: /"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:28
+msgid "Woo Product Description"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:36
+msgid "Module Title"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:71
+msgid "Description Heading"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:102
+#: includes/modules/ProductImage/ProductImage.php:28
+#: includes/modules/ProductTabs/ProductTabs.php:109
+msgid "Sizing"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:147
+#: includes/modules/ProductImage/ProductImage.php:20
+#: includes/modules/ProductTabs/ProductTabs.php:215
+msgid "Link"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:162
+#: includes/modules/ProductTabs/ProductTabs.php:230
+msgid "Unordered List"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:178
+#: includes/modules/ProductTabs/ProductTabs.php:246
+msgid "Ordered List"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:194
+#: includes/modules/ProductTabs/ProductTabs.php:262
+msgid "Blockquote"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:223
+#: includes/modules/ProductTabs/ProductTabs.php:291
+msgid "Heading 2"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:237
+#: includes/modules/ProductTabs/ProductTabs.php:305
+msgid "Heading 3"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:251
+#: includes/modules/ProductTabs/ProductTabs.php:319
+msgid "Heading 4"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:265
+#: includes/modules/ProductTabs/ProductTabs.php:333
+msgid "Heading 5"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:279
+#: includes/modules/ProductTabs/ProductTabs.php:347
+msgid "Heading 6"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:333
+msgid "The Heading of the module. If left empty, default is: Product Description"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:338
+#: includes/modules/ProductTabs/ProductTabs.php:530
+msgid "Unordered List Style Type"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:342
+#: includes/modules/ProductTabs/ProductTabs.php:534
+msgid "Disc"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:343
+#: includes/modules/ProductTabs/ProductTabs.php:535
+msgid "Circle"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:344
+#: includes/modules/ProductGallery/ProductGallery.php:217
+#: includes/modules/ProductTabs/ProductTabs.php:536
+msgid "Square"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:345
+#: includes/modules/ProductTabs/ProductTabs.php:537
+msgid "None"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:355
+#: includes/modules/ProductTabs/ProductTabs.php:547
+msgid "Unordered List Style Position"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:359
+#: includes/modules/ProductDescription/ProductDescription.php:422
+#: includes/modules/ProductTabs/ProductTabs.php:551
+#: includes/modules/ProductTabs/ProductTabs.php:614
+msgid "Outside"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:360
+#: includes/modules/ProductDescription/ProductDescription.php:423
+#: includes/modules/ProductTabs/ProductTabs.php:552
+#: includes/modules/ProductTabs/ProductTabs.php:615
+msgid "Inside"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:370
+#: includes/modules/ProductTabs/ProductTabs.php:562
+msgid "Unordered List Item Indent"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:386
+#: includes/modules/ProductTabs/ProductTabs.php:578
+msgid "Ordered List Style Type"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:418
+#: includes/modules/ProductTabs/ProductTabs.php:610
+msgid "Ordered List Style Position"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:433
+#: includes/modules/ProductTabs/ProductTabs.php:625
+msgid "Ordered List Item Indent"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:449
+#: includes/modules/ProductTabs/ProductTabs.php:641
+msgid "Blockquote Border Weight"
+msgstr ""
+
+#: includes/modules/ProductDescription/ProductDescription.php:466
+#: includes/modules/ProductTabs/ProductTabs.php:658
+msgid "Blockquote Border Color"
+msgstr ""
+
+#: includes/modules/ProductExcerpt/ProductExcerpt.php:13
+msgid "Woo Product Excerpt"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:15
+msgid "Woo Product Gallery"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:32
+msgid "Images"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:33
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:38
+#: includes/modules/ProductGallery/ProductGallery.php:173
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:49
+#: includes/modules/ProductImage/ProductImage.php:36
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:60
+msgid "Caption"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:117
+msgid "Gallery Item"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:125
+msgid "Overlay Icon"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:129
+msgid "Gallery Item Title"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:133
+msgid "Gallery Item Caption"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:137
+msgid "Gallery Pagination"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:141
+msgid "Pagination Active Page"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:150
+msgid "Include Product Image"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:151
+msgid "If you enable this, product image will be added to the gallery"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:164
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:178
+msgid "Slider"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:180
+msgid "Toggle between the various blog layout types."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:200
+msgid "Images Number"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:203
+msgid "Define the number of images that should be displayed per page."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:211
+msgid "Thumbnail Orientation"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:215
+msgid "Landscape"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:216
+msgid "Portrait"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:221
+msgid "Choose the orientation of the gallery thumbnails."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:222
+msgid "Note"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:223
+msgid "If this option appears to have no effect, you might need to"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:224
+msgid "regenerate your thumbnails"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:234
+msgid "Show Title and Caption"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:241
+msgid "Whether or not to show the title and caption for images (if available)."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:246
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:254
+msgid "Enable or disable pagination for this feed."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:257
+msgid "Automatic Animation"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:261
+#: includes/modules/ProductImage/ProductImage.php:106
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:203
+#: includes/modules/ProductUpsells/ProductUpsells.php:202
+msgid "Off"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:262
+#: includes/modules/ProductImage/ProductImage.php:107
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:202
+#: includes/modules/ProductUpsells/ProductUpsells.php:201
+msgid "On"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:273
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:276
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:283
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:286
+msgid "Hover Icon Color"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:294
+#: includes/modules/ProductImage/ProductImage.php:130
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:224
+#: includes/modules/ProductUpsells/ProductUpsells.php:223
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:302
+#: includes/modules/ProductImage/ProductImage.php:139
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:233
+#: includes/modules/ProductUpsells/ProductUpsells.php:232
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:387
+#: includes/modules/ProductGallery/ProductGallery.php:394
+msgid "image title"
+msgstr ""
+
+#: includes/modules/ProductGallery/ProductGallery.php:388
+#: includes/modules/ProductGallery/ProductGallery.php:395
+msgid "image caption"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:12
+msgid "Woo Product Image"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:26
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:40
+msgid "Attributes"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:87
+msgid "Open in Lightbox"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:99
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:102
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:198
+#: includes/modules/ProductUpsells/ProductUpsells.php:197
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:118
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:212
+#: includes/modules/ProductUpsells/ProductUpsells.php:211
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:121
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:215
+#: includes/modules/ProductUpsells/ProductUpsells.php:214
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:127
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:221
+#: includes/modules/ProductUpsells/ProductUpsells.php:220
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:136
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:230
+#: includes/modules/ProductUpsells/ProductUpsells.php:229
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:147
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:241
+#: includes/modules/ProductUpsells/ProductUpsells.php:240
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:150
+msgid "Show Space Below The Image"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:160
+msgid "Here you can choose whether or not the image should have a space below it."
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:163
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:170
+msgid "Here you can choose the image alignment."
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:174
+msgid "Force Fullwidth"
+msgstr ""
+
+#: includes/modules/ProductImage/ProductImage.php:189
+msgid "Always Center Image On Mobile"
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:13
+msgid "Woo Product Images Slider"
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:25
+msgid "Slider Options"
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:60
+msgid "Hide Thumbnails"
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:70
+msgid "Disable Lightbox"
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:71
+msgid "Enabling this option will hide the magnifying glass over the image."
+msgstr ""
+
+#: includes/modules/ProductImagesSlider/ProductImagesSlider.php:81
+msgid "Sale Badge Background"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:13
+msgid "Woo Product Meta"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:27
+#: includes/modules/ProductPrice/ProductPrice.php:20
+#: includes/modules/ProductTabs/ProductTabs.php:40
+msgid "Module Options"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:42
+msgid "Meta"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:81
+msgid "Show Tags"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:91
+msgid "Show SKU"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:101
+msgid "Show in separate lines"
+msgstr ""
+
+#: includes/modules/ProductMeta/ProductMeta.php:104
+msgid "Enabling this will show Categories, Tags and SKU each in a separate line"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:13
+msgid "Woo Product Navigation"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:20
+msgid "Navigation Options"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:25
+msgid "Icons Settings"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:43
+msgid "Navigation"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:55
+msgid "On Hover"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:81
+msgid "Navigation Links"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:90
+msgid "Navigation Type"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:94
+msgid "Links"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:95
+msgid "Icons"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:113
+msgid "Previous Product Text"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:115
+#: includes/modules/ProductNavigation/ProductNavigation.php:125
+msgid "If you leave this empty, the product title will be used"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:123
+msgid "Next Product Text"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:133
+msgid "Previous Icon"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:145
+msgid "Next Icon"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:157
+msgid "Icons Font Size"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:188
+msgid "Icon Background"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:195
+msgid "Icon Hover Background"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:202
+msgid "From The Same Category"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:214
+msgid "Nav Floating"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:218
+msgid "left"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:219
+msgid "Right"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:220
+msgid "Center"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:221
+msgid "Edge to Edge"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:223
+msgid "This controls the how your text is aligned within the module."
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:267
+msgid "Next Product Title"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:271
+msgid "Previous Product Title"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:291
+msgid "Next Product"
+msgstr ""
+
+#: includes/modules/ProductNavigation/ProductNavigation.php:307
+msgid "Previous Product"
+msgstr ""
+
+#: includes/modules/ProductPrice/ProductPrice.php:13
+msgid "Woo Product Price"
+msgstr ""
+
+#: includes/modules/ProductPrice/ProductPrice.php:65
+msgid "Change to selected variable price"
+msgstr ""
+
+#: includes/modules/ProductPrice/ProductPrice.php:73
+msgid ""
+"When you enable this, the price will change to the selected variation. "
+"<b>Works only with variable products</b>"
+msgstr ""
+
+#: includes/modules/ProductRating/ProductRating.php:13
+msgid "Woo Product Rating"
+msgstr ""
+
+#: includes/modules/ProductRating/ProductRating.php:64
+msgid "Placeholder"
+msgstr ""
+
+#: includes/modules/ProductRating/ProductRating.php:66
+msgid ""
+"Activating this will add gray stars as a placeholder if the product has no "
+"rating"
+msgstr ""
+
+#: includes/modules/ProductRating/ProductRating.php:78
+msgid "Placeholder Stars Color"
+msgstr ""
+
+#: includes/modules/ProductRating/ProductRating.php:86
+#: includes/modules/ProductReviews/ProductReviews.php:99
+#: includes/modules/ProductSummary/ProductSummary.php:299
+msgid "Stars Color"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:32
+msgid "Woo Related Products"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:45
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:129
+#: includes/modules/ProductUpsells/ProductUpsells.php:44
+#: includes/modules/ProductUpsells/ProductUpsells.php:128
+msgid "Header"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:115
+msgid "Related Products"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:120
+#: includes/modules/ProductUpsells/ProductUpsells.php:119
+msgid "Product Image Overlay"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:137
+#: includes/modules/ProductUpsells/ProductUpsells.php:136
+msgid "Product Price"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:156
+#: includes/modules/ProductUpsells/ProductUpsells.php:155
+msgid "Products count"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:160
+#: includes/modules/ProductUpsells/ProductUpsells.php:159
+msgid "Products Count: Default is 3"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:167
+#: includes/modules/ProductUpsells/ProductUpsells.php:166
+msgid "Products Columns"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:171
+#: includes/modules/ProductUpsells/ProductUpsells.php:170
+msgid "-- Columns --"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:178
+#: includes/modules/ProductUpsells/ProductUpsells.php:177
+msgid "Products Columns: Default is 3"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:185
+#: includes/modules/ProductUpsells/ProductUpsells.php:184
+msgid "Show Add To Cart"
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:191
+#: includes/modules/ProductUpsells/ProductUpsells.php:190
+msgid "Enable this to display add to cart button under each product."
+msgstr ""
+
+#: includes/modules/ProductRelatedProducts/ProductRelatedProducts.php:292
+msgid "Related products"
+msgstr ""
+
+#: includes/modules/ProductReviews/ProductReviews.php:14
+msgid "Woo Product Reviews"
+msgstr ""
+
+#: includes/modules/ProductReviews/ProductReviews.php:65
+msgid "Submit Button"
+msgstr ""
+
+#: includes/modules/ProductSummary/ProductSummary.php:22
+msgid "Woo Product Summary"
+msgstr ""
+
+#: includes/modules/ProductSummary/ProductSummary.php:189
+#: includes/modules/ProductSummary/ProductSummary.php:257
+msgid "Product Meta"
+msgstr ""
+
+#: includes/modules/ProductSummary/ProductSummary.php:253
+msgid "Variation Prices"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:24
+msgid "Woo Product Tabs"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:45
+msgid "Colors"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:46
+#: includes/modules/ProductTabs/ProductTabs.php:413
+msgid "Tabs Headers"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:47
+#: includes/modules/ProductTabs/ProductTabs.php:149
+#: includes/modules/ProductTabs/ProductTabs.php:417
+msgid "Active Tab Header"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:48
+msgid "Hover Tab Header"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:50
+msgid "Product Description"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:78
+msgid "Product Description Heading"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:121
+msgid "Tabs Header"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:181
+msgid "Tab Header Hover"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:398
+msgid "Submit Review Button"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:424
+msgid "On Tabs Headers Hover"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:447
+msgid "Show Additional Info."
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:458
+msgid "Show Reviews"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:469
+msgid "Remove Default Style"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:471
+msgid "This will remove borders and heading background FOR Divi Theme ONLY"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:481
+msgid "Remove Tabs Title"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:483
+msgid ""
+"Inside each tab content, there is a title like Description, Additional "
+"Information ..."
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:493
+msgid "Reviews Stars Color"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:500
+msgid "Tab Background"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:507
+msgid "Active Tab Background"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:514
+msgid "Hover Tab Background"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:521
+msgid "Tabs Headers Orientation"
+msgstr ""
+
+#: includes/modules/ProductTabs/ProductTabs.php:525
+msgid "This controls how your tabs headings are aligned within the module."
+msgstr ""
+
+#: includes/modules/ProductTitle/ProductTitle.php:14
+msgid "Woo Product Title"
+msgstr ""
+
+#: includes/modules/ProductUpsells/ProductUpsells.php:31
+msgid "Woo Product Up-sells"
+msgstr ""
+
+#: includes/modules/ProductUpsells/ProductUpsells.php:114
+msgid "Upsell Products"
+msgstr ""
+
+#: includes/modules/ProductUpsells/ProductUpsells.php:300
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:18
+msgid "Woo Products Search"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:32
+msgid "Search Field Border"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:40
+#: includes/modules/ProductsSearch/ProductsSearch.php:102
+msgid "Search Field"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:86
+#: includes/modules/ProductsSearch/ProductsSearch.php:106
+msgid "Search Button"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:115
+msgid "Show Search Button"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:133
+msgid ""
+"Input your desired button text. Default is: Search, or leav empty if you "
+"want to use just an icon."
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:138
+msgid "Search Field Placeholder"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:140
+msgid "Search products..."
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:142
+msgid "Search input placeholder."
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:146
+msgid "Full-width Elements"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:153
+msgid "If you enable this, both the search field and the button will be full-width."
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:159
+msgid "Search Field Background"
+msgstr ""
+
+#: wc-builder-divi.php:76
+msgid ""
+"You must deactivate the WC Product Builder plugin for the WC Builder 2.0 to "
+"work!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Builder For Divi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.divikingdom.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Build amazing WooCommerce pages using Divi builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Abdelfatah Aboelghit | DiviKingdom.Com"
+msgstr ""
+
+#: includes/modules/ProductsSearch/ProductsSearch.php:131
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

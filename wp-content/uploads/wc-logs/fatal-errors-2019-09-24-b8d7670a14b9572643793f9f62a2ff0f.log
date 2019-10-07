@@ -1,0 +1,10 @@
+2019-09-24T11:09:56+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) dans D:\projets\woocommerce\wp_slider\wp-content\themes\slider\functions.php à la ligne 41
+
+2019-09-24T11:11:55+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) dans D:\projets\woocommerce\wp_slider\wp-content\themes\slider\functions.php à la ligne 41
+
+2019-09-24T11:15:56+00:00 CRITICAL syntax error, unexpected '$tpl' (T_VARIABLE) dans D:\projets\woocommerce\wp_slider\wp-content\themes\slider\functions.php à la ligne 44
+
+2019-09-24T11:29:13+00:00 CRITICAL syntax error, unexpected '}' dans D:\projets\woocommerce\wp_slider\wp-content\themes\slider\functions.php à la ligne 31
+
+2019-09-24T11:31:15+00:00 CRITICAL syntax error, unexpected '$tpl' (T_VARIABLE) dans D:\projets\woocommerce\wp_slider\wp-content\themes\slider\functions.php à la ligne 48
+

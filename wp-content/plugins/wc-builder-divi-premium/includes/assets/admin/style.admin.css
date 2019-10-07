@@ -1,0 +1,327 @@
+#remove_cover_img,
+.red_text{
+	color: #a00
+}
+
+.wp-admin.post-type-product p.et_pb_page_settings.et_pb_page_layout_settings {
+    display: block !important;
+}
+li.et_pb_woopro_breadcrumb,
+li.et_pb_woopro_title,
+li.et_pb_woopro_image,
+li.et_pb_woopro_gallery,
+li.et_pb_woopro_rating,
+li.et_pb_woopro_price,
+li.et_pb_woopro_excerpt,
+li.et_pb_woopro_add_to_cart,
+li.et_pb_woopro_meta,
+li.et_pb_woopro_upsells,
+li.et_pb_woopro_related_products,
+li.et_pb_woopro_description,
+li.et_pb_woopro_tabs,
+li.et_pb_woopro_additional_info,
+li.et_pb_woopro_reviews,
+li.et_pb_woopro_summary,
+li.et_pb_woopro_cover,
+li.et_pb_woopro_notices,
+li.et_pb_woopro_images_slider,
+li.et_pb_wcbd_page_title,
+li.et_pb_woopro_navigation,
+li.et_pb_wcbd_archive_desc,
+li.et_pb_wcbd_archive_products,
+li.et_pb_wcbd_cat_cover,
+li.et_pb_wcbd_products_search,
+.et-db #et-boc .et-fb-modules-list li.et_pb_wcbd_products_search,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_breadcrumb,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_title,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_image,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_gallery,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_rating,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_price,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_excerpt,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_add_to_cart,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_meta,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_upsells,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_related_products,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_description,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_tabs,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_additional_info,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_reviews,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_summary,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_cover,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_notices,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_images_slider,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_page_title,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_navigation,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_archive_desc,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_archive_products,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_cat_cover,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_products_search{
+    border-left: 3px solid #47cbb9 !important;
+    border-radius: 0 !important;
+	box-shadow: 0px 2px 10px #ababab85;
+	color: #000 !important;
+}
+.et-db #et-boc .et-fb-modules-list li.et_pb_wcbd_products_search,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_breadcrumb,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_title,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_image,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_gallery,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_rating,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_price,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_excerpt,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_add_to_cart,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_meta,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_upsells,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_related_products,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_description,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_tabs,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_additional_info,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_reviews,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_summary,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_cover,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_notices,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_images_slider,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_page_title,
+.et-db #et-boc .et-fb-modules-list li.et_fb_woopro_navigation,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_archive_desc,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_archive_products,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_cat_cover,
+.et-db #et-boc .et-fb-modules-list li.et_fb_wcbd_products_search {
+	width: 100% !important;
+}
+li.et_pb_woopro_breadcrumb:before,
+li.et_pb_woopro_title:before,
+li.et_pb_woopro_image:before,
+li.et_pb_woopro_gallery:before,
+li.et_pb_woopro_rating:before,
+li.et_pb_woopro_price:before,
+li.et_pb_woopro_excerpt:before,
+li.et_pb_woopro_add_to_cart:before,
+li.et_pb_woopro_meta:before,
+li.et_pb_woopro_upsells:before,
+li.et_pb_woopro_related_products:before,
+li.et_pb_woopro_description:before,
+li.et_pb_woopro_additional_info:before,
+li.et_pb_woopro_reviews:before,
+li.et_pb_woopro_summary:before,
+li.et_pb_woopro_cover:before,
+li.et_pb_woopro_notices:before,
+li.et_pb_woopro_navigation:before,
+li.et_pb_wcbd_archive_desc:before, 
+li.et_pb_wcbd_archive_products:before,
+li.et_pb_wcbd_cat_cover:before,
+li.et_pb_wcbd_products_search:before,
+li.et_fb_woopro_breadcrumb:before,
+li.et_fb_woopro_title:before,
+li.et_fb_woopro_image:before,
+li.et_fb_woopro_gallery:before,
+li.et_fb_woopro_rating:before,
+li.et_fb_woopro_price:before,
+li.et_fb_woopro_excerpt:before,
+li.et_fb_woopro_add_to_cart:before,
+li.et_fb_woopro_meta:before,
+li.et_fb_woopro_upsells:before,
+li.et_fb_woopro_related_products:before,
+li.et_fb_woopro_description:before,
+li.et_fb_woopro_additional_info:before,
+li.et_fb_woopro_reviews:before,
+li.et_fb_woopro_summary:before,
+li.et_fb_woopro_cover:before,
+li.et_fb_woopro_notices:before,
+li.et_fb_woopro_navigation:before,
+li.et_fb_wcbd_archive_desc:before,
+li.et_fb_wcbd_archive_products:before,
+li.et_fb_wcbd_cat_cover:before,
+li.et_fb_wcbd_products_search:before
+{
+	font-family: "ETmodules" !important;	
+}
+
+li.et_pb_woopro_breadcrumb:before,
+li.et_fb_woopro_breadcrumb:before{
+	content: '\e109' !important
+}
+li.et_pb_woopro_title:before,
+li.et_fb_woopro_title:before{
+	content: '\e02f' !important
+}
+li.et_pb_woopro_image:before,
+li.et_fb_woopro_image:before{
+	content: '\e005' !important
+}
+li.et_pb_woopro_gallery:before,
+li.et_fb_woopro_gallery:before{
+	content: '\e006' !important
+}
+li.et_pb_woopro_rating:before,
+li.et_fb_woopro_rating:before{
+	content: '\e032' !important
+}
+li.et_pb_woopro_price:before,
+li.et_fb_woopro_price:before{
+	content: '\e0ed' !important
+}
+li.et_pb_woopro_excerpt:before,
+li.et_fb_woopro_excerpt:before{
+	content: '\64' !important
+}
+li.et_pb_woopro_add_to_cart:before,
+li.et_fb_woopro_add_to_cart:before{
+	content: '\e015' !important
+}
+li.et_pb_woopro_meta:before,
+li.et_fb_woopro_meta:before{
+	content: '\e02b' !important
+}
+li.et_pb_woopro_tabs:before,
+li.et_fb_woopro_tabs:before{
+	content: '\51' !important
+}
+li.et_pb_woopro_upsells:before,
+li.et_fb_woopro_upsells:before{
+	content: '\e106' !important
+}
+li.et_pb_woopro_related_products:before,
+li.et_fb_woopro_related_products:before{
+	content: '\50' !important
+}
+li.et_pb_woopro_description:before,
+li.et_fb_woopro_description:before{
+	content: '\69' !important
+}
+li.et_pb_woopro_additional_info:before,
+li.et_fb_woopro_additional_info:before{
+	content: '\66' !important
+}
+li.et_pb_woopro_reviews:before,
+li.et_fb_woopro_reviews:before{
+	content: '\77' !important
+}
+li.et_pb_woopro_summary:before,
+li.et_fb_woopro_summary:before{
+	content: '\e105' !important
+}
+li.et_pb_woopro_cover:before,
+li.et_fb_woopro_cover:before{
+	content: '\e0e6' !important
+}
+li.et_pb_woopro_images_slider:before,
+li.et_fb_woopro_images_slider:before{
+	content: '\4f' !important
+}
+li.et_pb_woopro_notices:before,
+li.et_fb_woopro_notices:before{
+	content: '\e01e' !important
+}
+li.et_pb_woopro_navigation:before,
+li.et_fb_woopro_navigation:before{
+	content: '\2b' !important
+}
+li.et_pb_wcbd_archive_desc:before,
+li.et_fb_wcbd_archive_desc:before{
+	content: '\e007' !important
+}
+li.et_pb_wcbd_archive_products:before,
+li.et_fb_wcbd_archive_products:before{
+	content: '\e08c' !important
+}
+li.et_pb_wcbd_cat_cover:before,
+li.et_fb_wcbd_cat_cover:before{
+	content: '\e107' !important
+}
+li.et_pb_wcbd_page_title:before,
+li.et_fb_wcbd_page_title:before{
+	content: '\61' !important
+}
+li.et_pb_wcbd_products_search:before,
+li.et_fb_wcbd_products_search:before{
+	content: '\55' !important
+}
+
+.wcbd_admin_table ol li{
+	margin-top: 14px;
+}
+
+.wcbd_admin_table .child {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.wcbd_product_metabox .tab_header {
+	margin-bottom: 5px;
+	background: #e9e8ea;
+	color: #000;
+}
+.wcbd_product_metabox .tab_header label{
+	display: block;
+	padding: 10px 6px;
+}
+.wcbd_product_metabox .tab_content {
+	display: none;
+}
+.wcbd_product_metabox .tab_content.active {
+	display: block;
+}
+
+
+/* Settings Page */
+.admin_settings_page #archive_layouts{
+	display: none;
+} 
+ul.dk_admin_settings_menu {
+	border-bottom: 5px solid #47ccb9;
+	background: #fff;
+	box-shadow: 0 0 30px #d0d0d0;
+}
+ul.dk_admin_settings_menu li {
+	display: inline-block;
+	margin: 0 !important
+}
+ul.dk_admin_settings_menu li a {
+	text-decoration: none;
+	padding: 15px 10px;
+	display: block;
+	background: #fff;
+	color: #000;
+	outline: none;
+	box-shadow: none;
+}
+ul.dk_admin_settings_menu li a.active {
+	background: #47cbb9;
+	color: #fff;
+}
+.admin_settings_group {
+	background: #fff;
+	box-shadow: 0 0 30px #d0d0d0;
+	margin-bottom: 40px;
+	border-top: 5px solid #18cab9;
+	overflow: hidden;
+}
+.admin_settings_group .admin_settings_header {
+	padding: 20px;
+	background: #efefef;
+}
+.admin_settings_group .admin_settings_content {
+	padding: 20px;
+}
+
+.admin_settings_page input#submit {
+	background: #47cbb9;
+	text-shadow: none;
+	border: none;
+	border-radius: 0;
+	padding: 10px 20px;
+	height: auto;
+	box-shadow: 0 0 30px #cecece;
+}
+.admin_settings_page .important-links{
+	text-align: center
+}
+.admin_settings_page .important-links a {
+	text-decoration: none;
+}
+.wcbd_product_metabox .tab {
+	display: block;
+	padding: 0;
+}

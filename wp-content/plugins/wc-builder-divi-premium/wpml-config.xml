@@ -1,0 +1,10 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">wcbd_archive_layout</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">_single_product_divi_layout</custom-field>
+    <custom-field action="copy">_main_product_builder</custom-field>
+    <custom-field action="copy">_product_cover_img_url</custom-field>
+  </custom-fields>
+</wpml-config>
